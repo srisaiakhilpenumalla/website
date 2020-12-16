@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "projectName": "YelpCamp",
+        "projectShortDescription": "Node.js Application",
+        "projectId": "yelp-camp",
+        "projectDescription": "YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steeles web dev course on udemy.This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.",
+        "projectTags": [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Passport.js",
+            "Bootstrap",
+            "Mongoose"
+        ]
+    },
+    {
+        "id": 2,
+        "projectName": "React Colors",
+        "projectShortDescription": "A clone of websites like Flat UI Colors and Material UI Colors.",
+        "projectId": "react-colors",
+        "projectDescription": "React Colors is a replica of Flat UI Colors where you can crate your own color palette and check the colors RGB and Hex values and change the brightness of palette colors and their values ",
+        "projectTags": ["React", "Redux", "Hooks"]
+    },
+    {
+        "id": 3,
+        "projectName": "Corona Tracker",
+        "projectShortDescription": "A Corona Tracker developed using Angular",
+        "projectId": "corona-tracker",
+        "projectDescription": "Corona Tracker is a web application developed using Angular and used to display the standings of the number of cases in each country and accessing data through a CSV file which is accessed though Github.",
+        "projectTags": ["Angular", "Semantic-UI", "Bootstrap", "Google Charts"]
+    },
+    {
+        "id": 4,
+        "projectName": "Chat App",
+        "projectShortDescription": "Chat Application to communicate and chat with others.",
+        "projectId": "chat-app",
+        "projectDescription": "Chat App is a Realtime Chat Application. It is developed using React on the front end and NodeJS plus Socket.io web socket library on the back end to create rooms and chat with one another. It is hosted in Netlify",
+        "projectTags": ["React", "Node.js", "Socket.io"]
+    },
+    {
+        "id": 5,
+        "projectName": "CRUD",
+        "projectShortDescription": "A Crud App with Web API",
+        "projectId": "angular-crud",
+        "projectDescription": "This is a CRUD Application used to create edit and delete records from an SQL Database using Angular as a front end and ASP .NET Web API to communicate with Angular and display records to the users.",
+        "projectTags": ["Angular", "CRUD", "SQL", "ASP .NET", "Web API"]
+    }
+]
